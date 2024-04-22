@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958066941515",
+    "firebase_url": "https://smart-water-guard-default-rtdb.firebaseio.com",
+    "project_id": "smart-water-guard",
+    "storage_bucket": "smart-water-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958066941515:android:414bb930b01803199337ce",
+        "android_client_info": {
+          "package_name": "com.qppd.smartwaterguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958066941515-dqn4h4vq93clr1id5doc15eviakv119j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqL7LkSesI0sRxeiJ5vZfACssnw4ta7qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958066941515-dqn4h4vq93clr1id5doc15eviakv119j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

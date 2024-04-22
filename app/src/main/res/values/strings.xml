@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Water Guard</string>
+
+    <string-array name="reading_units">
+        <item>Gallons (gal)</item>
+        <item>Cubic feet (cu.ft.)</item>
+        <item>Milliliters (mL)</item>
+        <item>Liters (L)</item>
+        <item>Cubic Meter (cu.m.)</item>
+    </string-array>
+</resources>
